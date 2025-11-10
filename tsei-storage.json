@@ -246,45 +246,45 @@
     },
     {
       "tag": "v5.8-rc",
-      "attempts": 4,
+      "attempts": 5,
       "complete": false,
-      "lastAttempt": 1762814237112
+      "lastAttempt": 1762814524207
     },
     {
       "tag": "v5.8.2",
-      "attempts": 4,
+      "attempts": 5,
       "complete": false,
-      "lastAttempt": 1762814263971
+      "lastAttempt": 1762814550731
     },
     {
       "tag": "v5.8.3",
-      "attempts": 1,
+      "attempts": 2,
       "complete": false,
-      "lastAttempt": 1762814264015
+      "lastAttempt": 1762814550781
     },
     {
       "tag": "v5.9-beta",
-      "attempts": 1,
+      "attempts": 2,
       "complete": false,
-      "lastAttempt": 1762814264061
+      "lastAttempt": 1762814550828
     },
     {
       "tag": "v5.9-rc",
-      "attempts": 1,
+      "attempts": 2,
       "complete": false,
-      "lastAttempt": 1762814264102
+      "lastAttempt": 1762814550874
     },
     {
       "tag": "v5.9.2",
-      "attempts": 1,
+      "attempts": 2,
       "complete": false,
-      "lastAttempt": 1762814264140
+      "lastAttempt": 1762814550919
     },
     {
       "tag": "v5.9.3",
-      "attempts": 1,
+      "attempts": 2,
       "complete": false,
-      "lastAttempt": 1762814264181
+      "lastAttempt": 1762814550959
     }
   ]
 }
