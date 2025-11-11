@@ -258,34 +258,34 @@
     },
     {
       "tag": "v5.8.3",
-      "attempts": 6,
+      "attempts": 7,
       "complete": false,
-      "lastAttempt": 1762819459995,
+      "lastAttempt": 1762819550852,
       "tsVersion": "5.8.3"
     },
     {
       "tag": "v5.9-beta",
-      "attempts": 6,
+      "attempts": 7,
       "complete": false,
-      "lastAttempt": 1762819500239
+      "lastAttempt": 1762819590760
     },
     {
       "tag": "v5.9-rc",
-      "attempts": 6,
+      "attempts": 7,
       "complete": false,
-      "lastAttempt": 1762819500277
+      "lastAttempt": 1762819590788
     },
     {
       "tag": "v5.9.2",
-      "attempts": 6,
+      "attempts": 7,
       "complete": false,
-      "lastAttempt": 1762819500312
+      "lastAttempt": 1762819590813
     },
     {
       "tag": "v5.9.3",
-      "attempts": 6,
+      "attempts": 7,
       "complete": false,
-      "lastAttempt": 1762819500350
+      "lastAttempt": 1762819590837
     }
   ]
 }
