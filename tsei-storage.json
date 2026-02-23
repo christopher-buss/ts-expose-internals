@@ -286,6 +286,12 @@
       "attempts": 7,
       "complete": false,
       "lastAttempt": 1762819590837
+    },
+    {
+      "tag": "v6.0-beta",
+      "attempts": 1,
+      "complete": false,
+      "lastAttempt": 1771854280628
     }
   ]
 }
