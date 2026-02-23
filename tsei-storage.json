@@ -246,52 +246,52 @@
     },
     {
       "tag": "v5.8-rc",
-      "attempts": 5,
+      "attempts": 6,
       "complete": false,
-      "lastAttempt": 1771854499088,
+      "lastAttempt": 1771854645720,
       "tsVersion": "5.8.1-rc"
     },
     {
       "tag": "v5.8.2",
-      "attempts": 5,
+      "attempts": 6,
       "complete": false,
-      "lastAttempt": 1771854548871
+      "lastAttempt": 1771854703138
     },
     {
       "tag": "v5.8.3",
-      "attempts": 2,
+      "attempts": 3,
       "complete": false,
-      "lastAttempt": 1771854548917
+      "lastAttempt": 1771854703193
     },
     {
       "tag": "v5.9-beta",
-      "attempts": 2,
+      "attempts": 3,
       "complete": false,
-      "lastAttempt": 1771854548966
+      "lastAttempt": 1771854703249
     },
     {
       "tag": "v5.9-rc",
-      "attempts": 2,
+      "attempts": 3,
       "complete": false,
-      "lastAttempt": 1771854549015
+      "lastAttempt": 1771854703297
     },
     {
       "tag": "v5.9.2",
-      "attempts": 2,
+      "attempts": 3,
       "complete": false,
-      "lastAttempt": 1771854549063
+      "lastAttempt": 1771854703347
     },
     {
       "tag": "v5.9.3",
-      "attempts": 2,
+      "attempts": 3,
       "complete": false,
-      "lastAttempt": 1771854549109
+      "lastAttempt": 1771854703394
     },
     {
       "tag": "v6.0-beta",
-      "attempts": 2,
+      "attempts": 3,
       "complete": false,
-      "lastAttempt": 1771854549152
+      "lastAttempt": 1771854703443
     }
   ]
 }
