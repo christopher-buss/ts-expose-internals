@@ -246,15 +246,51 @@
     },
     {
       "tag": "v5.8-rc",
-      "attempts": 3,
+      "attempts": 4,
       "complete": false,
-      "lastAttempt": 1740961989088
+      "lastAttempt": 1771854386929
     },
     {
       "tag": "v5.8.2",
-      "attempts": 3,
+      "attempts": 4,
       "complete": false,
-      "lastAttempt": 1740962026107
+      "lastAttempt": 1771854447602
+    },
+    {
+      "tag": "v5.8.3",
+      "attempts": 1,
+      "complete": false,
+      "lastAttempt": 1771854447658
+    },
+    {
+      "tag": "v5.9-beta",
+      "attempts": 1,
+      "complete": false,
+      "lastAttempt": 1771854447710
+    },
+    {
+      "tag": "v5.9-rc",
+      "attempts": 1,
+      "complete": false,
+      "lastAttempt": 1771854447763
+    },
+    {
+      "tag": "v5.9.2",
+      "attempts": 1,
+      "complete": false,
+      "lastAttempt": 1771854447810
+    },
+    {
+      "tag": "v5.9.3",
+      "attempts": 1,
+      "complete": false,
+      "lastAttempt": 1771854447861
+    },
+    {
+      "tag": "v6.0-beta",
+      "attempts": 1,
+      "complete": false,
+      "lastAttempt": 1771854447906
     }
   ]
 }
